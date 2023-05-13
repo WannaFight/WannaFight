@@ -1,6 +1,8 @@
-👋 Hi, I’m @WannaFight and my full name is Trushin Ivan.\
-👀 I’m interested in Python \
-🌱 I’m currently learning Django, DRF, Flask and some CSS Frameworks (Bootstrap, Bulma) \
+👋 Hi!\
+👀 Interested in Python and Django \
+💼 Backend dev
+🌱 Currently improving my knowledge at Django/DRF and other backend related tech.\
+📚 Want to learn more other Python backend frameworks (FastAPI, Flask), frontend and Go.\
 📬 [Telegram](https://t.me/cognomen), mail: itrushin99@gmail.com
 <!---
 WannaFight/WannaFight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
