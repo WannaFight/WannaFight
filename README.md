@@ -1,6 +1,6 @@
 👋 Hi!
 
-👀 Interested in backend stuff and a bit in other programming stuff
+👀 Interested in backend stuff and a bit in all other programming
 
 💼 Working as Python Backend Dev
 
